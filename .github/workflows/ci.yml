@@ -10,5 +10,5 @@ jobs:
         run: make
       - name: Run tests
         run: |
-          ./tests/test_small.sh
-          ./tests/test_multiargs.sh
+          bash ./tests/test_small.sh
+          bash ./tests/test_multiargs.sh
