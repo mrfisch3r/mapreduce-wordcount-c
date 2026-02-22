@@ -1,0 +1,23 @@
+# build outputs
+*.o
+*.out
+*.exe
+wordcount
+
+# editor/os
+.vscode/
+.DS_Store
+Thumbs.db
+
+# NEVER publish course artifacts
+td*.tar
+td*.tgz
+td*.zip
+td1/
+td2/
+td3/
+*.tar
+*.tgz
+*.zip
+*.pdf
+*.docx
